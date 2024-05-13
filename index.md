@@ -12,7 +12,7 @@ I’m so incredibly curious! I love learning about the world. I am passionate ab
 
 Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, Gaming, Assistive Technology, Product Development, AI Ethics, and how API can be applied to sign language technology. 
 
-<center>*opta ardua pennis astra sequi*</center>
+>*opta ardua pennis astra sequi*
 
 ## Publications
 
