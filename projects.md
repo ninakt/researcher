@@ -4,7 +4,7 @@ My business partner and I collaborated with [CBC Music](https://www.cbc.ca/music
 
 In the review process, conformance evaluation of accessibility for hosting a live event requires manual assessment by an experienced reviewer(s). The accessibility support baseline is AA conformance level per the evaluation criteria based on [WCAG 2.2](https://www.w3.org/TR/WCAG22/). We evaluated that the Juno Awards 2024 event seems to adhere to WCAG 2.2 AA standards.  
 
-For more information, here is our available link: "presentation.pdf".   
+For more information, here is our available [presentation](presentation.pdf). 
 
 ## Deaf Users Interacting with Intelligent Personal Assistants 
 
