@@ -12,7 +12,7 @@ She was born to two hard-working people who could not afford education. They tri
 
 Forward to the present, she has a bachelor's degree in Disability Studies and Informatics from the University of Washington. She recently received her master's degree in Accessible Human-centered Computing from Gallaudet University. If she had told the younger herself, she would not believe that all of this could have happened. 
 
-As far back as she can remember, she has always been enquiring and enjoyed learninga bout the world. She is passionate about accessibility. With that in mind, she brings over 4 years of hands-on experience in research, encompassing qualitative and quantitative methodologies, statistical analysis, accessibility testing, and expertise in UX/UI. 
+As far back as she can remember, she has always been enquiring and enjoyed learning about the world. She is passionate about accessibility. With that in mind, she brings over 4 years of hands-on experience in research, encompassing qualitative and quantitative methodologies, statistical analysis, accessibility testing, and expertise in UX/UI. 
 
 ## Research Interest
 
