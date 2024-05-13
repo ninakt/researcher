@@ -11,12 +11,9 @@ I’m so incredibly curious! I love learning about the world. I am passionate ab
 ## Research Interest
 
 Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, Gaming, Assistive Technology, Product Development, AI Ethics, and how API can be applied to sign language technology. 
-\
----
-<center>
->*opta ardua pennis astra sequi*
-</center>
 
+---
+                                                 opta ardua pennis astra sequi 
 ## Publications
 
 1. **Nina Tran**, Paige S DeVries, Matthew Seita, Raja Kushalnagar, Abraham Glasser, and Christian Vogler. 2024. Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 53, 1–15. https://doi.org/10.1145/3613904.3642094 
