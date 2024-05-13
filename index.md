@@ -2,9 +2,13 @@
 layout: default
 ---
 
-## About Me
+## About Nina Tran
 
 <img class="profile-picture" src="prof_pic.jpg">
+
+She uses she/her/they pronouns. Her story is just like... one of the eight billion people's stories.   
+
+She was born to two hard-working people who could not afford education. Despite a lack of access to resources, they did their best to do what they could to help us succeed when their parents could not. 
 
 I’m so incredibly curious! I love learning about the world. I am passionate about accessibility. With that in mind, I bring over 4 years of hands-on experience in HCI research, encompassing qualitative and quantitative methodologies, statistical analysis, accessibility testing, and expertise in UX/UI. 
 
