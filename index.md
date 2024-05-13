@@ -31,9 +31,9 @@ Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, G
 Year | Award | Category
 -----|-------|--------
 2023 | Bison Tank Business Award  | Won **third place** for designing a deaf-friendly dating app 
-2023 | CRA-WP Grad Cohort for Women | Was granted a travel Scholarship
-2023 | CRA-WP Grad Cohort for IDEALS | Was granted a travel scholarship
-2022 | Tapia Conference | Was sponsored by AccessComputing
+2023 | CRA-WP Grad Cohort for Women | Granted a travel Scholarship
+2023 | CRA-WP Grad Cohort for IDEALS | Granted a travel scholarship
+2022 | Tapia Conference Scholarship | Sponsored by AccessComputing
 2021 | Dennis Leng Award | Nominated for the Best Outstandarding Student
 2021 | Dean's List Scholarship | Awarded for achieving a GPA of 3.50 
 2020 | Dean's List Scholarship | Awarded for achieving a GPA of 3.50 
