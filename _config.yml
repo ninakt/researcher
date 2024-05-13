@@ -9,6 +9,10 @@ markdown: kramdown
 
 tracking_id: #
 
+footer: yes
+footer_url: "https://github.com/ninakt"
+footer_text: "Page design by Nina Tran"
+
 sass:
     style: compressed
     sass_dir: _sass
