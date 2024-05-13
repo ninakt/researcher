@@ -14,7 +14,7 @@ She has always been enquiring and enjoyed learning about the world. She is passi
 
 ## Research Interest
 
-Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, Gaming, Assistive Technology, Product Development, AI Ethics, and how API can be applied to sign language technology. 
+Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, Gaming, Assistive Technology, Product Development, AI Ethics, and how APIs can be applied to sign language technology. 
 
 ---
                                       opta ardua pennis astra sequi 
