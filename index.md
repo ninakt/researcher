@@ -26,5 +26,7 @@ Year | Award | Category
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
+---
+
 > To a great mind, nothing is little
 
