@@ -15,7 +15,9 @@ Phase 2 - Kitchen:
 
 If you are curious about the answers to our research questions, please refer to my [paper](https://dl.acm.org/doi/10.1145/3613904.3642094) for more details. 
 
-What was the process behind designing our Wizard-of-Oz experimental setup? This setup requires the use of multiple devices, such as the Amazon Echo Show, iPad tablet, Phillips Hue for multicolor lighting, digital cameras, and laptops. To stimulate natural interactions between deaf users and IPAs in their home environment, we made adjustments to have our IPA, Alexa, respond to their signed commands. 
+**What was the process behind designing our Wizard-of-Oz experimental setup?** 
+
+This setup requires the use of multiple devices, such as the Amazon Echo Show, iPad tablet, Phillips Hue for multicolor lighting, digital cameras, and laptops. To stimulate natural interactions between deaf users and IPAs in their home environment, we made adjustments to have our IPA, Alexa, respond to their signed commands. 
 
 <img align="center" width="460" height="300" src="alexa.png" alt="a person standing in front of the screen while signing">
 Figure 1: A participant signs to the Echo Show device with the iPad nearby and the webcam on top feeding video to the ASL interpreter behind the scene (the "Wizard"). 
