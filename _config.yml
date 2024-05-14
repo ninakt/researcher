@@ -7,7 +7,7 @@ baseurl: "/researcher"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: G-LJQLWSCQJ6 
+tracking_id: "G-LJQLWSCQJ6" 
 
 footer: yes
 footer_url: "https://github.com/ninakt"
