@@ -23,12 +23,9 @@ Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, G
 
 ## Publications
 
-1. **Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants**
-   [[Publication]](https://doi.org/10.1145/3613904.3642094) 
-3. **Sign Language-Based versus Touch-Based Input for Deaf Users with Interactive Personal Assistants in Simulated Kitchen Environments**
-   [[Publication]](https://doi.org/10.1145/3613905.3651075)
-4. **U.S. Deaf Community Perspectives on Automatic Sign Language Translation**
-   [[Publication]](https://doi.org/10.1145/3597638.3614507)
+1. **Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants** [[Publication]](https://doi.org/10.1145/3613904.3642094) 
+3. **Sign Language-Based versus Touch-Based Input for Deaf Users with Interactive Personal Assistants in Simulated Kitchen Environments** [[Publication]](https://doi.org/10.1145/3613905.3651075)
+4. **U.S. Deaf Community Perspectives on Automatic Sign Language Translation** [[Publication]](https://doi.org/10.1145/3597638.3614507)
    
 ## Awards
 
