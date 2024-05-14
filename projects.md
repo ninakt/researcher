@@ -19,6 +19,7 @@ What was the process behind designing our Wizard-of-Oz experimental setup? This 
 
 However, Alexa lacks the ability to recognize signed commands. Therefore, a Wizard situated in a separate room would communicate with Alexa, while the participant signs to Alexa via the webcam. That way, the participant remains unaware of the Wizard's presence. 
 
+<img align="center" src="alexa.png" alt="a person standing in front of the screen while signing">
 Figure 1: A participant signs to the Echo Show device with the iPad nearby and the webcam on top feeding video to the ASL interpreter behind the scene (the "Wizard"). 
 
 ### SignMates Dating App 
