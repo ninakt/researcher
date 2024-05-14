@@ -19,6 +19,7 @@ Accessibility, Human-Computer Interaction, Smart Home Technology & Automation, G
 ---
                                       opta ardua pennis astra sequi 
 
+---
 
 ## Publications
 
