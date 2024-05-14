@@ -3,6 +3,7 @@ layout: default
 ---
 ## About Nina Tran
 *Deaf. Climbing lover. Passion for accessibility. Dream of traveling around the world.*
+
 <img class="profile-picture" src="prof_pic.jpg">
 
 She uses she/her/they pronouns. She was born to her first-generation immigrant parents who could not afford education. They tried their hardest to help her and her sister succeed by any means, even if they lacked access to resources. When she moved to the United States of America, she never knew that she could go to a public school and learn sign language. That's when her world expanded. 
