@@ -1,8 +1,8 @@
 ---
 layout: default
+subtitle: Deaf. Climbing lover. Passion for accessibility. Dream of traveling around the world.
 ---
 ## About Nina Tran
-*Deaf. Climbing lover. Passion for accessibility. Dream of traveling around the world.* 
 
 <img class="profile-picture" src="prof_pic.jpg">
 
