@@ -17,8 +17,6 @@ If you are curious about the answers to our research questions, please refer to 
 
 What was the process behind designing our Wizard-of-Oz experimental setup? This setup requires the use of multiple devices, such as the Amazon Echo Show, iPad tablet, Phillips Hue for multicolor lighting, digital cameras, and laptops. To stimulate natural interactions between deaf users and IPAs in their home environment, we made adjustments to have our IPA, Alexa, respond to their signed commands. 
 
-However, Alexa lacks the ability to recognize signed commands. Therefore, a Wizard situated in a separate room would communicate with Alexa, while the participant signs to Alexa via the webcam. That way, the participant remains unaware of the Wizard's presence. 
-
 <img align="center" src="alexa.png" alt="a person standing in front of the screen while signing">
 Figure 1: A participant signs to the Echo Show device with the iPad nearby and the webcam on top feeding video to the ASL interpreter behind the scene (the "Wizard"). 
 
