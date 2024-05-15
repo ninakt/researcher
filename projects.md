@@ -49,5 +49,5 @@ Please refer to my [paper](https://dl.acm.org/doi/10.1145/3597638.3614507) for m
 
 Climate change remains a significant global concern, with varying impacts on individuals depending on their geographical location and economic status. For my INFO 201 course at the University of Washington, I was tasked with utilizing my data analysis and visualization skills to investitgate trends in CO2 emissions using data complied by [Our World in Data](https://ourworldindata.org/co2-and-greenhouse-gas-emissions). Then I built an interactive Shiny application enabling users to explore various countries and observe their corresponding CO2 emissions trends over time. 
 
-Please visit my [data dashboard](https://ninatkt.shinyapps.io/a4-ninatkt/). 
+Please visit my [data dashboard](https://ninatkt.shinyapps.io/a4-ninatkt/) and feel free to interact with it.  
 
