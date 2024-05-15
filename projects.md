@@ -61,7 +61,7 @@ Solution: We designed Signum, a commuication app, aimed at facilitating social i
 
 If you are interested in exploring our high-fidelity prototype of the Signum app, please feel free to interact with our [app](https://www.figma.com/proto/xiq294h09pmLGyuLhUpiVE/Signum?node-id=25-0&scaling=scale-down&page-id=0%3A1). 
 
-Please refer to our [pproject report](signum-report.pdf) for more details. 
+Please refer to our [project report](signum-report.pdf) for more details. 
 
 
 
