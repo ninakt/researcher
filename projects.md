@@ -18,9 +18,9 @@ We designed a Wizard-of-Oz experimental setup, which involves a complex process.
 
 <details> 
 <summary>SignMates Dating App</summary>
-Many dating apps prioritize serving their mainstream users, often overlooking marginalized communities in the process. They do not offer disability or accessibility features. If anything, there is a sacarity of user research focused on accommodating the needs of marginalized users. Many marginalized users fear disclosing their identity because the norm in society is hearing and able-bodied. 
-  
-Our stakeholders are deaf users who have previously 
+Many matchmaking apps prioritize serving their mainstream users, often overlooking marginalized communities in the process. They often lack disability or accessibility features, and there is a severe scarcity of user research aimed at designing for the needs of marginalized users. Many marginalized users hesitate to disclose their identity due to societal norms that predominately favor those who are hearing and able-bodied.  
+
+My project specifically targeted two groups: deaf users who have previously used a matchmaking app and hearing users who have met or would like to meet a deaf person through a matchmaking app. We designed a deaf friendly matchmaking app tailored to the needs of the deaf community aiming to challenge societal norms and help deaf users feel more confident when connecting with others through such platforms. 
 
 </details>
 
