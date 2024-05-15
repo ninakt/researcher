@@ -5,7 +5,7 @@ TBA
 
 **Deaf Users Interacting with Intelligent Personal Assistants**
 
-<img align="center" width="300" height="200" src="alexa.png" alt="a person standing in front of the screen while signing">
+![a person standing in front of the screen while signing](alexa.png)
 
 Image description: A participant signs to the Echo Show device with the iPad nearby and the webcam on top feeding video to the ASL interpreter behind the scene (the "Wizard"). 
 
@@ -16,7 +16,7 @@ We designed a Wizard-of-Oz experimental setup, which involves a complex process.
 
 **SignMates Matchmaking App**
 
-<img align="center" width="300" height="200" src="signmates.png" alt="SignMates Logo">
+![SignMates Logo](signmates.png)
   
 Many matchmaking apps prioritize serving their mainstream users, often overlooking marginalized communities in the process. They often lack disability or accessibility features, and there is a severe scarcity of user research aimed at designing for the needs of marginalized users. Many marginalized users hesitate to disclose their identity due to societal norms that predominately favor those who are hearing and able-bodied.  
 
