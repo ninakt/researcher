@@ -1,5 +1,7 @@
 ## 2024 
+
 **Advisory Group on AI and Sign Language Interpreting**
+
 ![a smiling woman with straight, purple hair and a grey shirt, and her name "Nina Tran" on a personalized social media post](deafsafeai.png)
 
 #DeafSafeAI has two important social impact areas for automatic interpreting by artifical intelligence (AIxAI). This qualitative method centers on employing Deaf expertise to integrate safety and quity into AIxAI design, rather than concentrating on the prepardeness of general hearing culture. The participants perceive intermediate goals, including sign language and cultural preservation, being attained by short-term actions. Enforceable federal regulations must include precise definitions of short-term quality criteria. Sociotechnical design and accountability in AIxAI policies are guided by a well-defined vision of intended results. 
