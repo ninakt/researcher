@@ -3,8 +3,8 @@ TBA
 
 ## 2023 
 
-<details>
-<summary>Deaf Users Interacting with Intelligent Personal Assistants</summary>
+**Deaf Users Interacting with Intelligent Personal Assistants**
+
 <img align="center" width="300" height="200" src="alexa.png" alt="a person standing in front of the screen while signing">
 
 Image description: A participant signs to the Echo Show device with the iPad nearby and the webcam on top feeding video to the ASL interpreter behind the scene (the "Wizard"). 
@@ -13,11 +13,9 @@ We designed a Wizard-of-Oz experimental setup, which involves a complex process.
   
 *If you are curious to learn more about this project, please refer to my [paper](https://dl.acm.org/doi/10.1145/3613904.3642094) for more details.*
 
-</details> 
 
+**SignMates Matchmaking App**
 
-<details> 
-<summary>SignMates Matchmaking App</summary>
 <img align="center" width="300" height="200" src="signmates.png" alt="SignMates Logo">
   
 Many matchmaking apps prioritize serving their mainstream users, often overlooking marginalized communities in the process. They often lack disability or accessibility features, and there is a severe scarcity of user research aimed at designing for the needs of marginalized users. Many marginalized users hesitate to disclose their identity due to societal norms that predominately favor those who are hearing and able-bodied.  
@@ -26,14 +24,12 @@ Our project specifically targeted two groups: deaf users who have previously use
 
 *If you are interested in exploring our high-fidelity prototype of the SignMates matchmaking app, please feel free to interact with our [app](https://www.figma.com/proto/kIgdi7XGHz2nyywXoYaZl4/Milestone-6?kind=proto&node-id=47-1378&page-id=0%3A1&scaling=scale-down&starting-point-node-id=106%3A1062&viewport=606%2C132%2C0.06) and refer to our [project](https://signmates.myportfolio.com/milestones) for more details.*
 
-</details>
 
 ## 2022 
 
-<details> 
 <summary>Deaf Community's Perspectives & Sign Language Recognition </summary>
 Add text 
-</details> 
+
 
 ## 2021 
 
