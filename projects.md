@@ -24,7 +24,7 @@ Many matchmaking apps prioritize serving their mainstream users, often overlooki
 
 Our project specifically targeted two groups: deaf users who have previously used a matchmaking app and hearing users who have met or would like to meet a deaf person through a matchmaking app. We designed a deaf friendly matchmaking app tailored to the needs of the deaf community aiming to challenge societal norms and help deaf users feel more confident when connecting with others through such platforms.  
 
-If you are interested in exploring our high-fidelity prototype of the SignMates matchmaking app, please feel free to interact with our [app](https://www.figma.com/proto/kIgdi7XGHz2nyywXoYaZl4/Milestone-6?kind=proto&node-id=47-1378&page-id=0%3A1&scaling=scale-down&starting-point-node-id=106%3A1062&viewport=606%2C132%2C0.06) and refer to our [project](https://signmates.myportfolio.com/milestones) for more details. 
+*If you are interested in exploring our high-fidelity prototype of the SignMates matchmaking app, please feel free to interact with our [app](https://www.figma.com/proto/kIgdi7XGHz2nyywXoYaZl4/Milestone-6?kind=proto&node-id=47-1378&page-id=0%3A1&scaling=scale-down&starting-point-node-id=106%3A1062&viewport=606%2C132%2C0.06) and refer to our [project](https://signmates.myportfolio.com/milestones) for more details.*
 
 </details>
 
