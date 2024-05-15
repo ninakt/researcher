@@ -34,9 +34,11 @@ If you are interested in exploring our high-fidelity prototype of the SignMates 
 
 ## 2022 
 
-Deaf Community's Perspectives & Sign Language Recognition
+**Deaf Community's Perspectives & Sign Language Recognition**
 
+Million of Deaf and hard-of-hearing (DHH) individuals primarily rely on sign language for communication, yet face a shortage of interpreters. The emergence of automatic sign language translation (ASLT) systems could help bridge the gap between sign and spoken languages in situations where human interpreters are unavailable. Recent advancements in large multilinigual language models suggest that ASLT could become a reality. Despite its potential, the Deaf community's perspectives on these sign language technolognies are poorly understood. To address this gap, we conducted a survey within the Deaf community in the U.S. to gather insights on ASLT, aiming to develop user-centered systems. Our findings provide valuable insights into when DHH users in the U.S. might prefer to use ASLT, their expectations, design preferences, and perceived benefits and concerns. This research seeks to inform the development of ASLT, ensuring it meets user needs while minimizing drawbacks. 
 
+Please refer to my [paper](https://dl.acm.org/doi/10.1145/3597638.3614507) for more details. 
 
 ## 2021 
 
