@@ -23,10 +23,10 @@ Accessibility, Human-computer interaction, Artifical intelligence, Human languag
 
 ## Publications
 
-1. **Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants** [[Publication]](https://doi.org/10.1145/3613904.3642094) [[PDF]](alexapdf.pdf)
-3. **Sign Language-Based versus Touch-Based Input for Deaf Users with Interactive Personal Assistants in Simulated Kitchen Environments** [[Publication]](https://doi.org/10.1145/3613905.3651075) [[PDF]](alexa2pdf.pdf)
-4. **SignMates Matchmaking App** (Poster) [[PDF]](ngaposter.pdf)
-5. **U.S. Deaf Community Perspectives on Automatic Sign Language Translation** [[Publication]](https://doi.org/10.1145/3597638.3614507) [[PDF]](aslt.pdf)
+1. **Assessment of Sign Language-Based versus Touch-Based Input for Deaf Users Interacting with Intelligent Personal Assistants** [[Publication]](https://doi.org/10.1145/3613904.3642094) [[PDF]](assets/alexapdf.pdf)
+3. **Sign Language-Based versus Touch-Based Input for Deaf Users with Interactive Personal Assistants in Simulated Kitchen Environments** [[Publication]](https://doi.org/10.1145/3613905.3651075) [[PDF]](assets/alexa2pdf.pdf)
+4. **SignMates Matchmaking App** (Poster) [[PDF]](assets/ngaposter.pdf)
+5. **U.S. Deaf Community Perspectives on Automatic Sign Language Translation** [[Publication]](https://doi.org/10.1145/3597638.3614507) [[PDF]](assets/aslt.pdf)
    
 ## Awards
 
