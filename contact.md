@@ -4,9 +4,7 @@ is_contact: true
 ---
 
 ## Email 
-[ninatktran@gmail.com](mailto:ninatktran@gmail.com)
-
----
+[Email me at ninatktran@gmail.com](mailto:ninatktran@gmail.com)
 
 ## Social
-[LinkedIn](https://www.linkedin.com/in/ninaktran)
+[Visit my LinkedIn](https://www.linkedin.com/in/ninaktran) 
