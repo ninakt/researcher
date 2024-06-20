@@ -20,6 +20,8 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "assets/resume.pdf"
+ - name: "CV"
+   link: "assets/cv.pdf"
  - name: "Projects"
    link: "projects"
  - name: "Contact"
