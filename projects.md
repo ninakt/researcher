@@ -1,4 +1,6 @@
 ## 2024 
+**ChatGPT Study with Robin Angelini, Dr. Katta Spiel, and Dr. Maartje De Meulder**
+In progress! 
 
 **Advisory Group on AI and Sign Language Interpreting**
 
