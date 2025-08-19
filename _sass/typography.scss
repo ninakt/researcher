@@ -41,7 +41,8 @@
         width: $image-size;
         margin-left: 20px;
         float: right;
-        border-radius: 50%;
+        //border-radius: 50%;
+        border-radius: 0;
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
