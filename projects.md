@@ -1,8 +1,9 @@
-## 2024 
+## 2025 
 **ChatGPT Study with Robin Angelini, Dr. Katta Spiel, and Dr. Maartje De Meulder**
 
 In progress! 
 
+## 2024 
 **Advisory Group on AI and Sign Language Interpreting**
 
 ![a smiling woman with straight, purple hair and a grey shirt, and her name "Nina Tran" on a personalized social media post](assets/deafsafeai.png)
