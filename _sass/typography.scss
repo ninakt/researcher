@@ -39,10 +39,10 @@
     .profile-picture {
         height: $image-size;
         width: $image-size;
-        margin-left: 20px;
-        float: right;
+        margin-leftt: 20px;
+        float: left;
         //border-radius: 50%;
-        border-radius: 0;
+        border-radius: 0%;
         @media (max-width: $small-width) {
             img {
                 margin-top: -5px;
@@ -50,7 +50,7 @@
         }
     }
     img {
-        text-align: right;
+        text-align: left;
         width: 60%;
         margin: 0 auto; 
     }
